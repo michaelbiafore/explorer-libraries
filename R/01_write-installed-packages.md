@@ -1,7 +1,7 @@
 01\_write-installed-packages.R
 ================
 User
-Thu Oct 04 14:33:25 2018
+Thu Oct 04 14:38:48 2018
 
 ``` r
 ## deja vu from earlier!
